@@ -6,7 +6,7 @@ A relação de consumo entre álcool e gasolina é de 70%, ou seja, se temos o m
 
 ## Instruções:
 
-- Baixe a release disponível neste repositório.
+- Baixe a release [aqui](https://github.com/WevertonFelipeFerreira/ComparaCombustivel/releases/tag/fuel-mentor).
 
 - Execute o arquivo .exe (Contem um ícone de uma bomba de combustível).
 
