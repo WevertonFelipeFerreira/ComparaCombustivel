@@ -11,7 +11,7 @@ namespace _VerificadorDeCombustivel
         static void Main(string[] args)
         {
             bool permissao = true;
-            while (permissao == true)
+            do
             {
                 Console.WriteLine("Etanol ou Gasolina ? Qual é mais viável");
                 Console.WriteLine("**************************************");
@@ -39,14 +39,8 @@ namespace _VerificadorDeCombustivel
                     permissao = true;
                 }
                 else permissao = false;
-            }
+            } while (permissao == true);
             Console.WriteLine("Obrigado por utilizar nosso sistema!");
-
-
-
-
-
-
             Console.ReadLine();
         }
     }
